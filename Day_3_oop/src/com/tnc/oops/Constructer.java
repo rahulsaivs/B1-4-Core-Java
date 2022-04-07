@@ -6,12 +6,12 @@ public class Constructer
 	int s;
 	Constructer()
 	{
-		str="welcome";
+		str="welcome Mr.";
 		s=123;
 	}
 	void display()
 	{
-		System.out.println(str+" "+ s);
+		System.out.println(str+"  "+ s);
 	}
 
 	public static void main(String[] args) 

@@ -1,5 +1,4 @@
 package com.tnc.oops;
-
 public class Car2 
 {
 	String str;
@@ -11,7 +10,6 @@ public class Car2
 	{
 		System.out.println("this is"+ str);
 	}
-
 	public static void main(String[] args)
 	{
 		Car2 a= new Car2(" AUDI");
@@ -19,8 +17,7 @@ public class Car2
 		Car2 a2=new Car2(" MARCIDES BENZ");
 		a.print();
 		a1.print();
-		a2.print();
-		
+		a2.print();	
 	}
 
 }

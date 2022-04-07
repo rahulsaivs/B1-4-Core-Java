@@ -8,7 +8,7 @@ class R6
 }
 class R3 extends R6
 {
-	void display()
+void display()
 	{
 		System.out.println("I like R3");
 	}
