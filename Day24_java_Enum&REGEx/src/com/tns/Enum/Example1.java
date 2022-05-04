@@ -6,7 +6,7 @@ enum Car
 public class Example1 {
 
 	public static void main(String[] args) {
-		Car c= Car.Audi;
+		Car c= Car.Marcedes;
 		System.out.println(c);
 
 	}
